@@ -261,7 +261,7 @@ export default function Page() {
               d’humanité, d’efficacité et d’intelligence relationnelle.
             </p>
             <p className="text-lg text-gray-700">
-              Nous proposons un <a href="https://afthonios.com/wp-content/uploads/2025/06/Catalogue-des-Formations-Soft-Skills-2025-Afthonios.pdf" className="underline text-primary" target="_blank" rel="noopener noreferrer">catalogue</a> riche de 250 modules SCORM, 350 vidéos, et <strong>des contenus prêts à l&apos;emploi</strong> que
+              Nous proposons un <a href="https://afthonios.com/wp-content/uploads/2025/05/Catalogue-des-Formations-Soft-Skills-2025-Afthonios.pdf" className="underline text-primary" target="_blank" rel="noopener noreferrer">catalogue</a> riche de 250 modules SCORM, 350 vidéos, et <strong>des contenus prêts à l&apos;emploi</strong> que
               vos équipes peuvent intégrer immédiatement dans leur quotidien professionnel.
             </p>
           </div>
@@ -278,14 +278,14 @@ export default function Page() {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {(() => {
               const links = [
-                "https://afthonios.com/wp-content/uploads/2025/06/Catalogue-des-Formations-Soft-Skills-2025-Afthonios.pdf#page=3",  // Assertivité et Courage
-                "https://afthonios.com/wp-content/uploads/2025/06/Catalogue-des-Formations-Soft-Skills-2025-Afthonios.pdf#page=6",  // Efficacité Personnelle et Professionnelle
-                "https://afthonios.com/wp-content/uploads/2025/06/Catalogue-des-Formations-Soft-Skills-2025-Afthonios.pdf#page=8",  // Collaboration et Travail en Équipe
-                "https://afthonios.com/wp-content/uploads/2025/06/Catalogue-des-Formations-Soft-Skills-2025-Afthonios.pdf#page=11",  // Agilité et Changement
-                "https://afthonios.com/wp-content/uploads/2025/06/Catalogue-des-Formations-Soft-Skills-2025-Afthonios.pdf#page=14", // Communication et Relations
-                "https://afthonios.com/wp-content/uploads/2025/06/Catalogue-des-Formations-Soft-Skills-2025-Afthonios.pdf#page=16", // Management et Leadership
-                "https://afthonios.com/wp-content/uploads/2025/06/Catalogue-des-Formations-Soft-Skills-2025-Afthonios.pdf#page=19", // Énergie Positive et Bien-être
-                "https://afthonios.com/wp-content/uploads/2025/06/Catalogue-des-Formations-Soft-Skills-2025-Afthonios.pdf#page=23", // Diversité et Inclusion (corrected)
+                "https://afthonios.com/wp-content/uploads/2025/05/Catalogue-des-Formations-Soft-Skills-2025-Afthonios.pdf#page=3",  // Assertivité et Courage
+                "https://afthonios.com/wp-content/uploads/2025/05/Catalogue-des-Formations-Soft-Skills-2025-Afthonios.pdf#page=5",  // Efficacité Personnelle et Professionnelle
+                "https://afthonios.com/wp-content/uploads/2025/05/Catalogue-des-Formations-Soft-Skills-2025-Afthonios.pdf#page=7",  // Collaboration et Travail en Équipe
+                "https://afthonios.com/wp-content/uploads/2025/05/Catalogue-des-Formations-Soft-Skills-2025-Afthonios.pdf#page=10",  // Agilité et Changement
+                "https://afthonios.com/wp-content/uploads/2025/05/Catalogue-des-Formations-Soft-Skills-2025-Afthonios.pdf#page=13", // Communication et Relations
+                "https://afthonios.com/wp-content/uploads/2025/05/Catalogue-des-Formations-Soft-Skills-2025-Afthonios.pdf#page=15", // Management et Leadership
+                "https://afthonios.com/wp-content/uploads/2025/05/Catalogue-des-Formations-Soft-Skills-2025-Afthonios.pdf#page=18", // Énergie Positive et Bien-être
+                "https://afthonios.com/wp-content/uploads/2025/05/Catalogue-des-Formations-Soft-Skills-2025-Afthonios.pdf#page=21", // Diversité et Inclusion (corrected)
               ];
               return [
                 "Assertivité et Courage",
@@ -326,7 +326,7 @@ export default function Page() {
       <section className="py-12 px-6 bg-gray-50">
         <div className="max-w-screen-xl mx-auto text-center">
           <a
-            href="https://afthonios.com/wp-content/uploads/2025/06/Catalogue-des-Formations-Soft-Skills-2025-Afthonios.pdf"
+            href="https://afthonios.com/wp-content/uploads/2025/05/Catalogue-des-Formations-Soft-Skills-2025-Afthonios.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-primary inline-block mb-10"
